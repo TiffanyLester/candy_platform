@@ -1,0 +1,96 @@
+header {
+    background-color: white;
+    color: pink;
+    font-size: 20px;
+    font-family: 'Acme', sans-serif;
+}
+
+.title {
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.elements {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+
+.subheader {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 100%;
+    background-image: url(https://arghink.com/wp-content/uploads/candy.jpg);
+    font-family: 'Acme', sans-serif;
+}
+
+body {
+    background-color: #d0f2fa;
+    font-size: 20px;
+    
+}
+
+.how {
+    display: flex;
+    justify-content: center;
+    font-family: 'Acme', sans-serif;
+}
+.steps {
+    display: flex;
+    font-family: 'Acme', sans-serif;
+
+}
+
+.cards {
+    background-color: #fad7e4;
+    height: 150px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0);
+
+}
+
+.inside {
+    font-family: 'Acme', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.contents {
+    display: flex;
+    justify-content: center;
+    background-image: url(http://images.clipartpanda.com/candy-clipart-il_340x270.837673142_fi5n.jpg)
+}
+
+.themes {
+    display: flex;
+    justify-content: center;
+    font-family: 'VT323', monospace;
+    font-size: 30px;
+}
+
+.theme {
+    background-color: #82f5b6;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0);
+
+}
+
+
+footer {
+    background-color: #00a2ff;
+}
